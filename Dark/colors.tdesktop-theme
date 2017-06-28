@@ -21,7 +21,7 @@
 // |-background.jpg (or tiled.jpg, background.png, tiled.png)
 //
 
-arcDarkWindow: #383C4A;
+arcDarkWindow: #2f343f;
 arcDarkButton: #444A58;
 arcDarkButtonHighlight: #505666;
 arcDarkButtonClose: #cc575d;
